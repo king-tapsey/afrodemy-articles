@@ -9,6 +9,15 @@
   <artifactId>app</artifactId>
   <modelVersion>4.0.0</modelVersion>
 
+  <dependencies>
+    <dependency>
+      <groupId>zw.co.afrocodemy</groupId>
+      <artifactId>api</artifactId>
+      <version>0.0.1-SNAPSHOT</version>
+      <scope>compile</scope>
+    </dependency>
+  </dependencies>
+
   <build>
     <plugins>
       <plugin>
